@@ -1,4 +1,4 @@
-package com.ravi.common;
+package com.dan.common;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
